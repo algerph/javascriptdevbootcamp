@@ -1,1 +1,1 @@
-# jsDevBootcamp
+# jsDevBootcamp My Course Projects
